@@ -1,4 +1,5 @@
-# Javascript Project Template
+# Card Collector
+A backend API with authorization using OAuth
 
 Getting Started
 
